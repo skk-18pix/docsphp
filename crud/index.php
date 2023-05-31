@@ -76,7 +76,7 @@
      </div>
         <input type="number" class="form-control" id="" placeholder="9876543210" name="mobile" autocomplete="off" required>
       <div class="valid-feedback">Valid.</div>
-      <div class="invalid-feedback">Please fill out this field.</div>  <!-- mobile -->
+      <div class="invalid-feedback">Please fill out this field.</div>  <!-- mobiles -->
     </div> <!-- form-group// -->
     
     <div class="form-group input-group">
